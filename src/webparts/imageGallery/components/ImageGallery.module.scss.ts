@@ -1,9 +1,9 @@
 /* tslint:disable */
 require("./ImageGallery.module.css");
 const styles = {
-  imageGallery: 'imageGallery_db6f6230',
-  container: 'container_db6f6230',
-  center: 'center_db6f6230'
+  imageGallery: 'imageGallery_0a1a69eb',
+  container: 'container_0a1a69eb',
+  center: 'center_0a1a69eb'
 };
 
 export default styles;
